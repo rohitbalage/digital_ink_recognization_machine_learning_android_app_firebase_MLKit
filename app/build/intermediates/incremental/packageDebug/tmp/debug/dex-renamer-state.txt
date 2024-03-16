@@ -1,0 +1,4 @@
+#Sat Mar 16 09:14:10 EDT 2024
+base.0=D\:\\Machine Learning\\Android based apps\\DigitalInkRecognitionKotlinStarter-main\\DigitalInkRecognitionKotlinStarter-main\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
