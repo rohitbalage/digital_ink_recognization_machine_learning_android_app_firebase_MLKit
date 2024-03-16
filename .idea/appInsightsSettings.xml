@@ -22,6 +22,23 @@
             </InsightsFilterSettings>
           </value>
         </entry>
+        <entry key="Firebase Crashlytics">
+          <value>
+            <InsightsFilterSettings>
+              <option name="connection">
+                <ConnectionSetting>
+                  <option name="appId" value="com.example.imageclassificationkotlin" />
+                  <option name="mobileSdkAppId" value="1:916151694560:android:ba92d6f2a636d4f814cc85" />
+                  <option name="projectId" value="courseimagelabelingkotlin" />
+                  <option name="projectNumber" value="916151694560" />
+                </ConnectionSetting>
+              </option>
+              <option name="signal" value="SIGNAL_UNSPECIFIED" />
+              <option name="timeIntervalDays" value="THIRTY_DAYS" />
+              <option name="visibilityType" value="ALL" />
+            </InsightsFilterSettings>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
